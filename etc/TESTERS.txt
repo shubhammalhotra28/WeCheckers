@@ -1,0 +1,10 @@
+Testers Initial Instructions:
+1. navigate to the directory with the pom.xml file in a terminal, and enter mvn compile exec:java
+2. open a browser and navigate to localhost: 4567
+
+Note: a new browser or private session must be opened for each new "Player."
+
+To test game stories, you must:
+-have at least two players logged in
+-click one players name from the home screen, then wait for both players to join the game
+
