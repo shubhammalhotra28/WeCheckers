@@ -1,7 +1,7 @@
 # WebCheckers
 
 An online Checkers game system built in Java 8 and Spark,
-a web micro-framework.
+a web micro-framework within the group learning the software engineering concepts. We had used Maven for the dependencies
 
 
 ## Team
